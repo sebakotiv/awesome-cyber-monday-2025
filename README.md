@@ -73,6 +73,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Transcript LOL](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025)|  Unlimited ai transcriptions, summaries, chat |  20% OFF with code **BF2025** (70% off on annual plans) | [Redeem deal](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 15 - Dec 7|
 | [DeskRest](https://deskrest.com/offers/?utm_source=awesome-cyber-monday-2025) | Smart break and posture reminder app for macOS. Transform your workday. | 60% OFF with code **BLACKFRIDAY** | [Get Lifetime Deal](https://deskrest.com/offers/?utm_source=awesome-cyber-monday-2025) | Nov 10 - Dec 3 |
 | [XGetter](https://xgetter.com/?utm_source=awesome-cyber-monday-2025) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** | [Get Deals](https://xgetter.com/cn#pricing) | Nov 15 - Dec 1 |
+| [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% OFF Lifetime | [Get Deals](https://apps.apple.com/ua/app/deskminder-reminders-tasks/id6740942938?mt=12) | Nov 24 - 28 |
 
 ## 🌐 Hosting & Infrastructure
 
