@@ -63,6 +63,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 |---------|-------------|----------|-----------|-------|
 | [Transcript LOL](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025)| Unlimited ai transcriptions, summaries, chat |  20% OFF with code **BF2025** (70% off on annual plans) | [Redeem deal](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 15 - Dec 7|
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI-powered workflow automation API (e-commerce, marketing, HR & more) | **50% OFF** (use code `BF2025`) | [Get Deal](https://sharpapi.com/en/pricing) | Nov 24 – Dec 3 |  
+| [ChatUML](https://chatuml.com) | Generate Professional UML Diagrams with AI | **40% OFF** (use code `BLACKFRI25`) | [Get Deal](https://chatuml.com) | Nov 24 – Dec 1 |  
 
 ## 🔧 Productivity Tools
 
