@@ -63,6 +63,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 |---------|-------------|----------|-----------|-------|
 | [Transcript LOL](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025)| Unlimited ai transcriptions, summaries, chat |  20% OFF with code **BF2025** (70% off on annual plans) | [Redeem deal](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 15 - Dec 7|
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI-powered workflow automation API (e-commerce, marketing, HR & more) | **50% OFF** (use code `BF2025`) | [Get Deal](https://sharpapi.com/en/pricing) | Nov 24 – Dec 3 |  
+| [PostFlow](https://postflow.app/?ref=punk) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **30% OFF** (LIFETIME) with code **BF2025** | [Get Lifetime Deal](https://postflow.app/?ref=punk) | Nov 24 – Dec 1 |  
 
 ## 🔧 Productivity Tools
 
