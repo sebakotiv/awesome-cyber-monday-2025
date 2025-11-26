@@ -133,6 +133,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | [SEO Utils](https://seoutils.app?ref=acm-2025) | All-in-one SEO platform for traditional SEO, local SEO, and AI Search Optimization (GEO/AEO). Track rankings across Google, Google Maps, Bing, ChatGPT, AI Overviews, and AI Mode with powerful analytics and automation. Enjoy privacy-first GSC integration with data retention beyond 16 months, SERP & semantic clustering, topic clusters, and auto-indexing for Google, Bing, Yandex, and more. | 20% OFF & Lifetime Deal | [Get Deal](https://seoutils.app/pricing?ref=acm-2025) | Nov 23 - Dec 2 |
+| [Checkbot: SEO checker extension](https://www.checkbot.io/) | Checkbot for Chrome tests 100s of pages at a time for SEO/speed/security problems like broken links, duplicate titles/headings/pages, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. Test unlimited sites as often as you want including local/development sites. | 50% off first year on yearly plans | [Get Deal](https://www.checkbot.io/?coupon=NOV25) | Nov 25 - Dec 5 |
 
 ---
 
