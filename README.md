@@ -118,7 +118,8 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | | | | | |
-
+**BLACKFRIDAY** | [Get Deal](https://blurdata.app/cybermonday) | Nov 28 - Dec 4 |
+| [blurdata.app](https://blurdata.app/#pricing) | Removes sensitive data from screenshots, offline and instant | **50% OFF** with code **BLACKFRIDAY** | [Get Deal](https://blurdata.app/#pricing) | Nov 25 - Dec 1 |
 ## 📊 Analytics & Marketing
 
 | Product | Description | Discount | Deal Link | Dates |
