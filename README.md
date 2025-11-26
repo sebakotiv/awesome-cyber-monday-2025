@@ -81,6 +81,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [XGetter](https://xgetter.com/?utm_source=awesome-cyber-monday-2025) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** | [Get Deals](https://xgetter.com/cn#pricing) | Nov 15 - Dec 1 |
 | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% OFF Lifetime | [Get Deals](https://apps.apple.com/ua/app/deskminder-reminders-tasks/id6740942938?mt=12) | Nov 24 - 28 |
 | [Wins 3](https://wins.cool) |  Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. |40% OFF with code **BLACKFRIDAY2025** | [Get Deals](https://wins.cool/html/pricing.html#price-section-anchor)| Nov 15 - Dec 2 |
+| [LinkYourFile](https://linkyourfile.com)| Link your local files or folders in any web application. | Lifetime 50% OFF with code **BLACKWEEKS_2025** | [Get Lifetime Deal](https://linkyourfile.com) | Nov 26th - Dec 6th | 
 
 
 ## 🌐 Hosting & Infrastructure
