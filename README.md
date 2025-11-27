@@ -37,6 +37,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [RunJS](https://runjs.app) | JavaScript and TypeScript playground. Zero config needed. Write and run code with instant feedback. | **30% OFF** with code **BLACKFRIDAY2025** | Nov 17 - Dec 2 |
 | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API | Use code BLACKFRIDAY2025 for 50% OFF | [Get Deal](https://scrapecreators.com/) | Nov 28 only |
 | [Hoverify](https://tryhoverify.com/) | All-in-one browser extension for web developers that helps you inspect, edit, test, debug, capture, and optimize websites faster. | 30% OFF on yearly subscription and LTD, no coupon needed | [Get Deal](https://tryhoverify.com/#pricing) | Nov 24 - Dec 4 |
+| [Polypane](https://polypane.app/) | The browser for developers who care. Built to streamline responsive design, accessibility, and SEO testing, all in one place. | **22% OFF** all yearly subscriptions |  [Get Deal](https://polyypane.app/black-friday) | Nov 25 - Dec 1 |
 | [Uptimebeats](https://uptimebeats.com/) | Uptime Monitoring and Status Pages. | 10% off on LTD with code BF2025 | [Get Deal](https://uptimebeats.com/pricing) | Nov 24 - Dec 1 |
 | [Tailscan for Tailwind CSS](https://tailscan.com/) | The best devtool browser extension for Tailwind CSS. Now with AI mode: prompt to prototype directly in the browser! | Up to 45% off on yearly, auto-applied. | [Get Deal](https://tailscan.com/#pricing) | Nov 27 - Dec 2 |
 
